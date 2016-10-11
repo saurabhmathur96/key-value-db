@@ -1,0 +1,12 @@
+Database file structure
+-----------------------
+
+Binary File
+size_t (long) - nChars - Number of chars per string
+char [nChars] - key1 - first key 
+char [nChars] - value1 - first value
+.
+.
+. 
+char [nChars] - keyn - nth key 
+char [nChars] - valuen - nth value
